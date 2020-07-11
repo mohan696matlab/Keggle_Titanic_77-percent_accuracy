@@ -11,4 +11,4 @@ While there was some element of luck involved in surviving, it seems some groups
 
 In this challenge, goal is to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class
 
-![Performance of the model](image.jpg)
+![Performance of the model](Images/scores.JPG)
