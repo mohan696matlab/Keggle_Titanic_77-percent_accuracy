@@ -11,4 +11,25 @@ While there was some element of luck involved in surviving, it seems some groups
 
 In this challenge, goal is to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class
 
+Road Map
+1. Importing the dataset
+2. Dropping out irrelevaent feature colums 'Name','PassengerId','Ticket'
+3. Taking care of missing data
+4. OneHot encoding of categorical features
+5. Visualizing with Seaborn
+6. Splitting inti Training and Validation sets
+7. Chosing best parameters with GridSearchCv for Random_forest
+8. Traing the Random_forest model with best_parameters obtained
+9. Evaluating performance on Validation sets
+10. Saving the model in a pickle file
+11. Testing the model on Unseen Test data and uploading the results
+
+
+
+
+
+
+
+
+
 ![Performance of the model](Images/scores.JPG)
